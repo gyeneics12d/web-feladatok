@@ -1,3 +1,1 @@
 # WEB-feladatok
-
-uid
