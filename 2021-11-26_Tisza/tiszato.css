@@ -71,7 +71,6 @@ tbody{
 .madarkep{
     width: 100px;
     vertical-align: bottom;
-    text-align: center;
     /*cursor: pointer;*/
 }
 
@@ -87,6 +86,7 @@ small {
 
 .novenykep{
     font-style: italic;
+    text-align: center;
 }
 
 .novenykep img{
